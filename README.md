@@ -48,3 +48,7 @@ A wallet is a digital tool used to store, send, and receive cryptocurrencies. It
 ## Conclusion
 Blockchain technology offers a decentralized and secure way of recording and transferring data. By understanding the key concepts and terms associated with blockchain, you can better navigate this innovative technology and its applications across various industries.
 
+
+
+ c
+
