@@ -1,4 +1,4 @@
-## 1
+## practical 1
 ```
 contract Hello {
     string public welecome = "Hello World";
@@ -23,7 +23,7 @@ contract Calculator{
     }
 ```
 
-## 2
+## practical 2
 ```
 contract Twitter{
     // add
@@ -40,7 +40,7 @@ contract Twitter{
         return tweets[_owner];
     }
 ```
-## 3
+## practical 3
 ```
 contract Twitter{
     // add
@@ -58,7 +58,7 @@ contract Twitter{
         return tweets[_owner];
     }
 ```
-## 4
+## practical 4
 ```
 contract Twitter{
     // define struct
@@ -90,7 +90,7 @@ contract Twitter{
         return tweets[_owner];
     }
 ```
-## 5
+## practical 5
 ```
 contract Token {
     address public owner;
