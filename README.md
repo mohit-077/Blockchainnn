@@ -3,7 +3,9 @@
 Blockchain technology is a decentralized and secure digital ledger that records transactions across multiple computers. It was first introduced with the creation of Bitcoin in 2008. 
 
 
-https://www.simplilearn.com/ice9/free_resources_article_thumb/Top_Things_About_Blockchain_and_Cryptocurrency_You_Probably_Didnt_Know.jpg
+![Uploading maxresdefault.jpg…]()
+![Screenshot 2025-04-07 140727](https://github.com/user-attachments/assets/54fc31b7-b617-4f0f-87ed-12d101b234f6)
+
 
 ## Key Concepts
 
