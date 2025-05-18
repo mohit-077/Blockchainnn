@@ -38,7 +38,7 @@ Commands (IPFS)
 
 18. kill
 
-19. in Browser you can directly run this to see the IPFS:
+19. in Browser you can directly run this to see the IPFS: https://ipfs.io/ipfs/QmSGhUapYKBgyuH1bwP2zttaWnDih9s8DK2XEzj4nRQxLS
 
 ![Screenshot 2025-05-18 205023](https://github.com/user-attachments/assets/8cc961ab-be3c-44ca-a7ab-75bac0af8a61)
 
