@@ -2,7 +2,8 @@
 
 ## The metamask account is our wallet where it stores the token , like sepolia faucet which are the test token , with the help of metamask wallet we will do the transaction and deploy our smart contract on the blockchain.
 
-![WhatsApp Image 2025-05-14 at 12 21 22 AM](https://github.com/user-attachments/assets/489a9518-f765-44d1-b219-a8c57dfa88d0)
+![WhatsApp Image 2025-05-18 at 4 06 18 PM](https://github.com/user-attachments/assets/751c14f5-5b3d-48e3-ad8e-de1a70d41bc4)
+
 
 
 ## Sepolia Faucet
