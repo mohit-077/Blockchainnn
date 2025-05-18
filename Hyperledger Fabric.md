@@ -15,6 +15,12 @@ Hyperledger is a set of open-source blockchain frameworks and tools developed by
 ![Screenshot 2025-05-18 180856](https://github.com/user-attachments/assets/8abc1088-e447-4976-916e-b69cc80d6b8d)
 ![Screenshot 2025-05-18 180959](https://github.com/user-attachments/assets/a2105277-810a-442b-9c74-8ed258626f45)
 
+# Install Node.js
+![Screenshot 2025-05-18 182320](https://github.com/user-attachments/assets/51b887cc-6182-423e-99b0-56ac72e7e5c8)
+
+# Install jq
+![Screenshot 2025-05-18 182513](https://github.com/user-attachments/assets/575b3a69-e1d6-4754-af86-24c5739b7b35)
+
 
 
 
