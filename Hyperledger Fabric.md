@@ -19,11 +19,31 @@ Hyperledger is a set of open-source blockchain frameworks and tools developed by
 ![Screenshot 2025-05-18 182320](https://github.com/user-attachments/assets/51b887cc-6182-423e-99b0-56ac72e7e5c8)
 
 # Install jq
-![Screenshot 2025-05-18 182513](https://github.com/user-attachments/assets/575b3a69-e1d6-4754-af86-24c5739b7b35)
+![Screenshot 2025-05-18 182524](https://github.com/user-attachments/assets/67e165a5-b082-4209-9ea9-c1c21ae2a839)
 
 # Clone fabric Samples
-![Screenshot 2025-05-18 182524](https://github.com/user-attachments/assets/67e165a5-b082-4209-9ea9-c1c21ae2a839)
 ![Screenshot 2025-05-18 183536](https://github.com/user-attachments/assets/05af16f3-040b-4bc6-a6b9-0aba5b0033ca)
+![Screenshot 2025-05-18 183604](https://github.com/user-attachments/assets/bfffc827-d79d-4102-a48e-4b177fb334ee)
+
+# Go into test network / Start the network
+![Screenshot 2025-05-18 183907](https://github.com/user-attachments/assets/4483ba3b-fbfa-481f-b8c4-a5608699f164)
+
+# Creating Channel
+![Screenshot 2025-05-18 184221](https://github.com/user-attachments/assets/238230f4-1fba-4f7b-966f-242d21ceb158)
+![Screenshot 2025-05-18 184245](https://github.com/user-attachments/assets/ba622c08-af81-4d19-9586-1975575ead34)
+![Screenshot 2025-05-18 184300](https://github.com/user-attachments/assets/059300fc-1132-4990-a10c-7e912507312a)
+![Screenshot 2025-05-18 184412](https://github.com/user-attachments/assets/112bdf41-8099-4f6e-94ba-a7b18db7e178)
+
+# Deploy Chaincode (Smart Contract)
+![Screenshot 2025-05-18 195110](https://github.com/user-attachments/assets/77da54b2-f7bb-4e4c-bcda-5f4bbf8a2048)
+![Screenshot 2025-05-18 195124](https://github.com/user-attachments/assets/d2f823a4-f89d-4439-8ad4-180650bfaad4)
+![Screenshot 2025-05-18 195139](https://github.com/user-attachments/assets/a11979a7-028f-42a1-8e7e-b1eb182a8843)
+![Screenshot 2025-05-18 195149](https://github.com/user-attachments/assets/6bf1d4b5-b115-4d9a-a1b9-ede9c0b77d10)
+
+# To Shut Down the Network
+![Screenshot 2025-05-18 195727](https://github.com/user-attachments/assets/41a331ea-d35a-43b9-8df1-95fea0be446e)
+
+
 
 
 
